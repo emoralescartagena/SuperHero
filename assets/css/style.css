@@ -1,0 +1,13 @@
+ /* .card-horizontal {
+    display: flex; 
+    flex: 1 2 auto; 
+}  */
+#sheroStats {
+    height: 400px; width: 100%;
+}
+.card-text {
+    font-size: 12px; 
+}
+.bs-example{
+    margin: 20px;        
+}
